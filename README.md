@@ -1,2 +1,2 @@
 # AI-FinalProject
-CSP for map coloroing
+CSP for map coloring
