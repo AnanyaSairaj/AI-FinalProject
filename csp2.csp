@@ -1,0 +1,25 @@
+A R G B
+B R G B
+C R G B
+D R G B
+E R G B
+F R G B
+0
+NotEqualConstraint A B
+NotEqualConstraint A D
+NotEqualConstraint B A
+NotEqualConstraint B C
+NotEqualConstraint B D
+NotEqualConstraint C B
+NotEqualConstraint C D
+NotEqualConstraint C E
+NotEqualConstraint D B
+NotEqualConstraint D C
+NotEqualConstraint D E
+NotEqualConstraint D F
+NotEqualConstraint E C
+NotEqualConstraint E D
+NotEqualConstraint E F
+NotEqualConstraint F D
+NotEqualConstraint F E
+0
